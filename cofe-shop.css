@@ -44,7 +44,7 @@ body{
 }
 /* welcome */
 .Welcome-section{
-   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(35, 3, 3, 0.5)), url(../ASSET/A\ close\ up\ of\ a\ pile\ of\ coffee\ beans.jpg);
+   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(35, 3, 3, 0.5)), url(A\ close\ up\ of\ a\ pile\ of\ coffee\ beans.jpg);
    background-size: cover;
    background-position: center;
    background-attachment: fixed;
@@ -344,3 +344,4 @@ body{
     
 
 } 
+
